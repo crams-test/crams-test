@@ -21,7 +21,7 @@ Web Server
   `Python <http://docs.python.org/>`_ stack.
 
 RDBMS
-  Ideally, use PostgreSQL.
+  Ideally, use MySQL.
 
 
 
