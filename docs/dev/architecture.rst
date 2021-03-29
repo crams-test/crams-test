@@ -12,6 +12,11 @@ This page describes the architecture of CRAMS.
 Component Architecture
 ----------------------
 
+.. figure:: ../images/CRAMS Architecture.png
+    :width: 250px
+    :align: center
+
+    Fig. 1. CRAMS Technical Architecture
 
 Web Server
   CRAMS is typically deployed with the standard
