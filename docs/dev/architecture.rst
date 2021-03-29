@@ -13,7 +13,6 @@ Component Architecture
 ----------------------
 
 .. figure:: ../images/crams_architecture.png
-    :width: 250px
     :align: center
 
     Fig. 1. CRAMS Technical Architecture
