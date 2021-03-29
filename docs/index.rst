@@ -8,7 +8,13 @@ Documentation
 .. toctree::
     :maxdepth: 2
 
+    userguide
+    admin
+    develop
+
    
+
+    changelog
 
 Indices and tables
 ==================
