@@ -12,7 +12,7 @@ This page describes the architecture of CRAMS.
 Component Architecture
 ----------------------
 
-.. figure:: ../images/CRAMS Architecture.png
+.. figure:: ../images/crams_architecture.png
     :width: 250px
     :align: center
 
