@@ -22,53 +22,53 @@ Key Technical Components
 ----------------------------
 
 Allocation Request
--  requesting new resources, projects 
--  view current allocations
+   requesting new resources, projects 
+   view current allocations
 
 Authentication
-Authenticate users: current implementation include Basic authentication and RapidConnect AAF.
+   Authenticate users: current implementation include Basic authentication and RapidConnect AAF.
 
 
 Authorisation
-View current roles, add/remove user roles
+  View current roles, add/remove user roles
 
 Data Administration
-Allow management of common data related to products, user etc.
+   Allow management of common data related to products, user etc.
 
 
 Data Ingest
-Bulk Ingest of information related to resource allocation, usage and one-off data migration
+  Bulk Ingest of information related to resource allocation, usage and one-off data migration
 
 
 Reporting
-A predefined set of business views for use by top and middle level management. 
+  A predefined set of business views for use by top and middle level management. 
 
 
 Request Approval
-Manage resource request approval and decline process
+   Manage resource request approval and decline process
 
 
 Resource Provision
-Assist external clients by providing
--  information on resource requests requiring provisioning,
-- update crams with metadata on provision status
+  Assist external clients by providing
+    -  information on resource requests requiring provisioning,
+    - update crams with metadata on provision status
 
 
 
 Provisioner
-Interacts primarily with Crams Resource Provisioning service to 
-- request new allocations requiring provision
-- report back to Crams on provisioning status.
+  Interacts primarily with Crams Resource Provisioning service to 
+    - request new allocations requiring provision
+    - report back to Crams on provisioning status.
 
 
 Usage Ingester 
-Interacts with Data Ingest Service to update Crams with information related to resource usage. 
+  Interacts with Data Ingest Service to update Crams with information related to resource usage. 
     
 
 Front-end
-A mediator that interacts with multiple CRAMS Services to provide users with seamless experience managing resource allocations. 
-All functionalities are grouped visually and logically into thematic units - Allocations, Approval, Provision, Admin and Reports.
-Current implementation include a javascript/HTML web portal ( HTML 5, CSS3 and bootstrap, Angular JS and Node JS) that can be accessed online. 
+  A mediator that interacts with multiple CRAMS Services to provide users with seamless experience managing resource allocations. 
+  All functionalities are grouped visually and logically into thematic units - Allocations, Approval, Provision, Admin and Reports.
+  Current implementation include a javascript/HTML web portal ( HTML 5, CSS3 and bootstrap, Angular JS and Node JS) that can be accessed online. 
 
 .. image:: ../images/crams_fe.png
 
