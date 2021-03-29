@@ -18,8 +18,8 @@ Web Server
 
 
 
-Key Technical Components
-----------------------------
+Key Technical Components / CRAMS Services
+----------------------------------------
 
 Allocation Request
    requesting new resources, projects 
