@@ -9,6 +9,6 @@ Key Features for Users
 ----------------------
 CRAMS will provide an effective self service mechanism for researchers and research facilities  to request cloud resources, monitor usage and manage own allocations.  CRAMS will further enable faster processing of resource allocation requests and provisioning of resources to end users. CRAMS reporting will enable effective strategic decisions on resource planning across Monash Research Data Storage, High Performance Computing Platform and Research Computing Cloud to address research needs better. 
 
-Developing for MyTardis
+CRAMS Developments
 -----------------------
-MyTardis is mostly written in the `Python programming language <https://www.python.org/>`_ and is built on top of the `Django web framework <https://www.djangoproject.com/>`_.
+CRAMS is mostly written in the `Python programming language <https://www.python.org/>`_ and is built on top of the `Django web framework <https://www.djangoproject.com/>`_.
