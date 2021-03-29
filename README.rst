@@ -71,6 +71,5 @@ New contributors are always welcome, however all developers should review the
 
 For any wishes, comments, praise etc. either open a GitHub issue or contact us.
 
-Contact details can be found on `https://www.monash.edu/researchinfrastructure/eresearch/contact-us`_.
+Contact details can be found on https://www.monash.edu/researchinfrastructure/eresearch/contact-us
 
-.. _`pull-request checklist`: TBD
