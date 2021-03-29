@@ -73,3 +73,5 @@ For any wishes, comments, praise etc. either open a GitHub issue or contact us.
 
 Contact details can be found on https://www.monash.edu/researchinfrastructure/eresearch/contact-us
 
+.. _`pull-request checklist`: https://github.com/crams-test/crams-test/blob/main/Contributing.rst
+
