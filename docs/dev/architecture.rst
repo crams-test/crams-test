@@ -94,6 +94,7 @@ CRAMS is using AAF Rapid Connect to authenticate an user to use the web applicat
 Authorisation
 ^^^^^^^^^^^^^
 User could have a different kinds of  roles in CRAMS. Each role has different permission to access to different menu, the following Role-Menu matrix  table shows all permissions. CRAMS will determine the UI navigation menu based on user roles after user logged in.
+
 .. image:: ../images/crams_authrn.png
 
 
